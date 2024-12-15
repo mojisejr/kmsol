@@ -1,5 +1,5 @@
-import DashboardFeature from '@/components/dashboard/dashboard-feature'
+import AppHero from "@/components/ui/app-hero";
 
 export default function Page() {
-  return <DashboardFeature />
+  return <AppHero />;
 }
